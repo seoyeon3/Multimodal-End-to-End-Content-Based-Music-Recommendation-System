@@ -37,6 +37,3 @@ The project follows a structured pipeline for building the recommendation system
 
 This repository provides a reference implementation for project.  
 For full experimental results and detailed analysis, please refer to the thesis.
-
-
-## Key Results
