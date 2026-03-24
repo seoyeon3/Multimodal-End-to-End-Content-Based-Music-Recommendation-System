@@ -1,6 +1,6 @@
 # Multimodal-End-to-End-Content-Based-Music-Recommendation-System 
 
-## Overview
+## Overview [![Notebook](https://img.shields.io/badge/Report-PDF-blue?style=flat-square)](https://github.com/seoyeon3/Multimodal-End-to-End-Content-Based-Music-Recommendation-System/blob/main/Park_2025_Master_Thesis.pdf)
 The rapid growth of music streaming platforms has greatly increased access to music, while also leading to more diverse and personalized listening preferences. However, this abundance of choice makes it increasingly difficult to discover content that truly aligns with individual tastes, highlighting the need for effective recommendation systems.
 
 To address this, I focus on building personalized recommendation models that go beyond generic suggestions and better capture individual listening patterns. The model aims to build a recommender system that provides personalized matching tracks based on past playlist history.
